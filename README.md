@@ -13,6 +13,10 @@ The developed dashboard will provide insights on key performance indicators, emp
 # Scope of the Project
 The scope included creating and designing an easy-to-use dashboard and integrating with existing data sources.
 
+# Tech Stack
+- Python
+- Looker Studio
+
 # Descriptive Statistics
 1. There are a total of 438,000 transactions in the dataset. This count provides an overview of the size of dataset.
 2. The mean transaction amount is approximately Rp 29.994. This value represents the central tendency or average transaction size in dataset.
@@ -24,9 +28,15 @@ The scope included creating and designing an easy-to-use dashboard and integrati
 
 These quartiles provide insights into the distribution of transaction amounts.
 
+# Impact or Benefits to Us and Our Users
+- Get a visual and interactive overview of our users business performance.
+- Helping our users make data-driven decisions.
+- Compare different metrics, periods, and location to identify trends, and opportunities for improvement.
+- Enhancing our collaboration and alignment with our team, coach, and users by providing a platform for discussing the business performance.
+
 # Project Outcome
 The end goal is to provide Toko Dizital with a powerful tool to monitoring business performance, enabling proactive and follow-up strategies for business growth.
-Check the dashboard  [here](https://lookerstudio.google.com/reporting/69cf01da-3641-44f4-b5d5-f3d2cb9b076d/page/zRniD).
+Check the dashboard [here](https://lookerstudio.google.com/reporting/5a17ddb9-0553-4967-899b-b870773cbd0f).
 
 # Contributors
 - Lis Wahyuni
