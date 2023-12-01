@@ -36,7 +36,8 @@ These quartiles provide insights into the distribution of transaction amounts.
 
 # Project Outcome
 The end goal is to provide Toko Dizital with a powerful tool to monitoring business performance, enabling proactive and follow-up strategies for business growth.
-Check the dashboard [here](https://lookerstudio.google.com/reporting/5a17ddb9-0553-4967-899b-b870773cbd0f).
+
+**Check the dashboard [here](https://lookerstudio.google.com/reporting/5a17ddb9-0553-4967-899b-b870773cbd0f).**
 
 # Contributors
 - Lis Wahyuni
