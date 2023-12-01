@@ -5,10 +5,10 @@ This is an industry partner capstone project by Generasi Gigih 3.0 and PT Toko D
 The developed dashboard will provide insights on key performance indicators, empowering the COO to make informed decisions quickly. By visualizing metrics such as sales trends and transaction rates, the dashboard will enhance the overall understanding of business performance.
 
 # TODO's
-[x] Creating a business plan analysis.
-[x] Generating dummy data.
-[x] Performing descriptive statistics and hypotheses testing on the data.
-[x] Developing a dashboard.
+-[x] Creating a business plan analysis.
+-[x] Generating dummy data.
+-[x] Performing descriptive statistics and hypotheses testing on the data.
+-[x] Developing a dashboard.
 
 # Scope of the Project
 The scope included creating and designing an easy-to-use dashboard and integrating with existing data sources.
@@ -21,6 +21,7 @@ The scope included creating and designing an easy-to-use dashboard and integrati
   - 25% (Q1): 25% of transactions have an amount below Rp 20.013.
   - (Median or Q2): The median amount is Rp 29.972, meaning half of the transactions have amounts below this value.
   - 75% (Q3): 75% of transactions have an amount below Rp 39.993.
+
 These quartiles provide insights into the distribution of transaction amounts.
 
 # Project Outcome
