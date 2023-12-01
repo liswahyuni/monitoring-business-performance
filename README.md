@@ -5,10 +5,10 @@ This is an industry partner capstone project by Generasi Gigih 3.0 and PT Toko D
 The developed dashboard will provide insights on key performance indicators, empowering the COO to make informed decisions quickly. By visualizing metrics such as sales trends and transaction rates, the dashboard will enhance the overall understanding of business performance.
 
 # TODO's
--[x] Creating a business plan analysis.
--[x] Generating dummy data.
--[x] Performing descriptive statistics and hypotheses testing on the data.
--[x] Developing a dashboard.
+- [x] Creating a business plan analysis.
+- [x] Generating dummy data.
+- [x] Performing descriptive statistics and hypotheses testing on the data.
+- [x] Developing a dashboard.
 
 # Scope of the Project
 The scope included creating and designing an easy-to-use dashboard and integrating with existing data sources.
