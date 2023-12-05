@@ -42,7 +42,7 @@ The end goal is to provide Toko Dizital with a powerful tool to monitoring busin
 # Contributors
 - Lis Wahyuni
 - Angga Chandra Putra
+- Kurnivan Noer Yusvianto
+- I Kadek Anom Sukawirasa Putra
 - Adhitya Aldira Hardy
 - Berliani Larasati
-- I Kadek Anom Sukawirasa Putra
-- Kurnivan Noer Yusvianto
